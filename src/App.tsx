@@ -4,7 +4,7 @@ import "./App.css";
 
 function App() {
         let title = " thsi is it ";
-        let titles = " fsajkdffds;jfklsaj;kthsi is ";
+        let titles = " fsajkdffds;jfkfkdsjfkl;alsaj;kthsi is ";
         return (
                 <div className="App">
                         <header className="App-header">
